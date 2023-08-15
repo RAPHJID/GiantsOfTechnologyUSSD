@@ -1,0 +1,15 @@
+/home/jidraf/Desktop/assignment/bin/Debug/net7.0/assignment
+/home/jidraf/Desktop/assignment/bin/Debug/net7.0/assignment.deps.json
+/home/jidraf/Desktop/assignment/bin/Debug/net7.0/assignment.runtimeconfig.json
+/home/jidraf/Desktop/assignment/bin/Debug/net7.0/assignment.dll
+/home/jidraf/Desktop/assignment/bin/Debug/net7.0/assignment.pdb
+/home/jidraf/Desktop/assignment/obj/Debug/net7.0/assignment.csproj.AssemblyReference.cache
+/home/jidraf/Desktop/assignment/obj/Debug/net7.0/assignment.GeneratedMSBuildEditorConfig.editorconfig
+/home/jidraf/Desktop/assignment/obj/Debug/net7.0/assignment.AssemblyInfoInputs.cache
+/home/jidraf/Desktop/assignment/obj/Debug/net7.0/assignment.AssemblyInfo.cs
+/home/jidraf/Desktop/assignment/obj/Debug/net7.0/assignment.csproj.CoreCompileInputs.cache
+/home/jidraf/Desktop/assignment/obj/Debug/net7.0/assignment.dll
+/home/jidraf/Desktop/assignment/obj/Debug/net7.0/refint/assignment.dll
+/home/jidraf/Desktop/assignment/obj/Debug/net7.0/assignment.pdb
+/home/jidraf/Desktop/assignment/obj/Debug/net7.0/assignment.genruntimeconfig.cache
+/home/jidraf/Desktop/assignment/obj/Debug/net7.0/ref/assignment.dll
