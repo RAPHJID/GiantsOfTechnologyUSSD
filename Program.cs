@@ -2,7 +2,7 @@
 {
     static void Main(string[] args)
     {
-        Authentication authentication = new Authentication();
+        Auth authentication = new Auth();
         authentication.RunAuthentication();
     }
 }

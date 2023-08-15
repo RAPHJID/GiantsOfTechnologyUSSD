@@ -2,14 +2,14 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 
-public class Authentication
+public class Auth
 {
     public void RunAuthentication()
     {
         Courses courses = new Courses();
         while (true)
         {
-            Console.WriteLine("Welcome to The Jitu");
+            Console.WriteLine("Welcome to The Giants of Technology!");
             Console.WriteLine("1. Login");
             Console.WriteLine("2. Register");
             Console.WriteLine("3. Exit");
